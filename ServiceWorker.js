@@ -1,9 +1,9 @@
-const cacheName = "Innate-A Man-1.0";
+const cacheName = "Innate-Sights Book-1.0";
 const contentToCache = [
-    "Build/Innate Readers Book.loader.js",
-    "Build/Innate Readers Book.framework.js",
-    "Build/Innate Readers Book.data",
-    "Build/Innate Readers Book.wasm",
+    "Build/Sight Words.loader.js",
+    "Build/Sight Words.framework.js",
+    "Build/Sight Words.data",
+    "Build/Sight Words.wasm",
     "TemplateData/style.css"
 
 ];
