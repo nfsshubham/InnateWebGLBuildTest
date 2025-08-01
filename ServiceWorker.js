@@ -1,9 +1,9 @@
 const cacheName = "Innate-Sights Book-1.0";
 const contentToCache = [
-    "Build/Sight Book Build.loader.js",
-    "Build/Sight Book Build.framework.js",
-    "Build/Sight Book Build.data",
-    "Build/Sight Book Build.wasm",
+    "Build/InnateWebGLBuildTest.loader.js",
+    "Build/InnateWebGLBuildTest.framework.js",
+    "Build/InnateWebGLBuildTest.data",
+    "Build/InnateWebGLBuildTest.wasm",
     "TemplateData/style.css"
 
 ];
