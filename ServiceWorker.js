@@ -1,9 +1,9 @@
 const cacheName = "Innate-Adjectives-1.0";
 const contentToCache = [
-    "Build/adjectives.loader.js",
-    "Build/adjectives.framework.js",
-    "Build/adjectives.data",
-    "Build/adjectives.wasm",
+    "Build/d3c7bbe3a5864531a3084decb9f3ebf1.loader.js",
+    "Build/90abb0651695c338625d2e596b018b87.framework.js.unityweb",
+    "Build/3cc5e1664dcc400ced2ba14e009b4185.data.unityweb",
+    "Build/7cb3837944d2a72217a51da548341c5d.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
