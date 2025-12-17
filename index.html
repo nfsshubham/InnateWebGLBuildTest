@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Adjectives</title>
+    <title>Pink Object Box</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="manifest" href="manifest.webmanifest">
   </head>
   <body>
     <div id="unity-container">
-      <canvas id="unity-canvas" width=1920 height=1080 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -57,15 +57,15 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/adjectives.loader.js";
+      var loaderUrl = buildUrl + "/pinkbox.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/adjectives.data",
-        frameworkUrl: buildUrl + "/adjectives.framework.js",
-        codeUrl: buildUrl + "/adjectives.wasm",
+        dataUrl: buildUrl + "/pinkbox.data",
+        frameworkUrl: buildUrl + "/pinkbox.framework.js",
+        codeUrl: buildUrl + "/pinkbox.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Innate",
-        productName: "Adjectives",
+        productName: "Pink Object Box",
         productVersion: "1.0",
         showBanner: unityShowBanner,
       };
