@@ -1,4 +1,4 @@
-const cacheName = "Innate-Pink Object Box-1.0";
+const cacheName = "Innate-Blue Object Box-1.0";
 const contentToCache = [
     "Build/bluebox.loader.js",
     "Build/bluebox.framework.js",
