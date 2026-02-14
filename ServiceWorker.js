@@ -1,9 +1,9 @@
 const cacheName = "Innate-Blue Object Box-1.0";
 const contentToCache = [
-    "Build/bluebox.loader.js",
-    "Build/bluebox.framework.js",
-    "Build/bluebox.data",
-    "Build/bluebox.wasm",
+    "Build/blueobjectbox.loader.js",
+    "Build/blueobjectbox.framework.js",
+    "Build/blueobjectbox.data",
+    "Build/blueobjectbox.wasm",
     "TemplateData/style.css"
 
 ];
