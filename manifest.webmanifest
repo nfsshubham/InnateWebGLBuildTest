@@ -1,6 +1,6 @@
 {
-    "name": "Sandpaper Numbers",
-    "short_name": "Sandpaper Numbers",
+    "name": "MontesorriNumberWords",
+    "short_name": "MontesorriNumberWords",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
