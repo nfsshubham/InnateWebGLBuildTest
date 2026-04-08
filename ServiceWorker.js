@@ -1,9 +1,9 @@
 const cacheName = "Innate-Green Object Box-1.0";
 const contentToCache = [
     "Build/greenbox.loader.js",
-    "Build/greenbox.framework.js.gz",
-    "Build/greenbox.data.gz",
-    "Build/greenbox.wasm.gz",
+    "Build/greenbox.framework.js",
+    "Build/greenbox.data",
+    "Build/greenbox.wasm",
     "TemplateData/style.css"
 
 ];
