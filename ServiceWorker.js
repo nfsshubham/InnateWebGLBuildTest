@@ -1,9 +1,9 @@
 const cacheName = "Innate-My Box-1.0";
 const contentToCache = [
-    "Build/mybox.loader.js",
-    "Build/mybox.framework.js",
-    "Build/mybox.data",
-    "Build/mybox.wasm",
+    "Build/books.loader.js",
+    "Build/books.framework.js",
+    "Build/books.data",
+    "Build/books.wasm",
     "TemplateData/style.css"
 
 ];
