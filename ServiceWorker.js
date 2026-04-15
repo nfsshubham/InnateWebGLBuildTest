@@ -1,4 +1,4 @@
-const cacheName = "Innate-A Man-1.0";
+const cacheName = "Innate-My Box-1.0";
 const contentToCache = [
     "Build/mybox.loader.js",
     "Build/mybox.framework.js",

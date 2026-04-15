@@ -1,6 +1,6 @@
 {
-    "name": "A Man",
-    "short_name": "A Man",
+    "name": "My Box",
+    "short_name": "My Box",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
