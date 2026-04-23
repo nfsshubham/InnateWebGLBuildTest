@@ -1,9 +1,9 @@
-const cacheName = "Innate-My Box-1.0";
+const cacheName = "Innate-WritingUpperAndLowerCase-0.1.0";
 const contentToCache = [
-    "Build/books.loader.js",
-    "Build/books.framework.js",
-    "Build/books.data",
-    "Build/books.wasm",
+    "Build/Writing.loader.js",
+    "Build/Writing.framework.js",
+    "Build/Writing.data",
+    "Build/Writing.wasm",
     "TemplateData/style.css"
 
 ];
