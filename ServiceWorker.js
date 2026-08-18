@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Continent Map-0.1";
+const cacheName = "Innate-Laptop-1.0";
 const contentToCache = [
-    "Build/continent-map.loader.js",
-    "Build/continent-map.framework.js",
-    "Build/continent-map.data",
-    "Build/continent-map.wasm",
+    "Build/Green Books build.loader.js",
+    "Build/Green Books build.framework.js",
+    "Build/Green Books build.data",
+    "Build/Green Books build.wasm",
     "TemplateData/style.css"
 
 ];
