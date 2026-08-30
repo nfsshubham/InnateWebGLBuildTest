@@ -1,9 +1,9 @@
-const cacheName = "Innate-Laptop-1.0";
+const cacheName = "DefaultCompany-Singular Plural-0.1";
 const contentToCache = [
-    "Build/Green Books build.loader.js",
-    "Build/Green Books build.framework.js",
-    "Build/Green Books build.data",
-    "Build/Green Books build.wasm",
+    "Build/singular-plural.loader.js",
+    "Build/singular-plural.framework.js",
+    "Build/singular-plural.data",
+    "Build/singular-plural.wasm",
     "TemplateData/style.css"
 
 ];
