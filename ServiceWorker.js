@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Singular Plural-0.1";
+const cacheName = "Innate-Nouns-0.1.0";
 const contentToCache = [
-    "Build/singular-plural.loader.js",
-    "Build/singular-plural.framework.js",
-    "Build/singular-plural.data",
-    "Build/singular-plural.wasm",
+    "Build/nouns.loader.js",
+    "Build/nouns.framework.js",
+    "Build/nouns.data",
+    "Build/nouns.wasm",
     "TemplateData/style.css"
 
 ];
